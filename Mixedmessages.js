@@ -1,4 +1,4 @@
-const firstMessage = "Life is ";
+const firstMessage = "Life is";
 
 const secondMessage =  () => {
     const message = ["a series of", "made up of", "about enjoying"];
@@ -11,6 +11,13 @@ const lastMessage =  () => {
     const lastMessageRand = message[Math.floor(Math.random() * 6)];
     return lastMessageRand;
 }
+
+const completeMessage =  (first, second, last) => {
+    message = "Inspirational Quote: " + first + " " + second + " " + last;
+    return message;
+}
+
+console.log(completeMessage(firstMessage, secondMessage(), lastMessage()))
 
 
 

@@ -16,6 +16,6 @@ const onButtonClick = () => {
     };
 
     document.querySelector('.inspirational-quote').innerHTML = makeRandomSentence();
-}
+};
 
 

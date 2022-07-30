@@ -2,7 +2,7 @@
 This is the Codecademy Mixed Messages Project. I took the inspriational quote approach.
 
 ## How to run?
-To run this project follow this instructions:
+To run this project follow these instructions:
 
 * Download the files as a ZIP file
 * Open the index.html file or run the files using Node.js

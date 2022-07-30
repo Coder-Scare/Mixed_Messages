@@ -1,7 +1,7 @@
 # Mixed_Messages
 This is the Codecademy Mixed Messages Project. I took the inspriational quote approach.
 
-![Image] (Screenshot 2022-07-30 152346.png)
+![Image] (images/Screenshot 2022-07-30 152346.png)
 
 ## How to run?
 To run this project follow these instructions:
